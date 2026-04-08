@@ -48,7 +48,7 @@ The data analysis revealed several core behavioral patterns in the Warsaw real e
 
 ### Page 1: Executive Summary
 A high-level market overview – key performance indicators (KPIs), supply structure (room count, primary vs. secondary market), and base filters.
-![Executive Summary]([powerbi_screens/screen1.png])
+![Executive Summary](powerbi_screens/screen1.png)
 
 ### Page 2: Price and Area Trends
 Analysis of the "U" curve (price per m² by room count) and a scatter plot (Investor's Radar) for spotting market opportunities.
